@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Computer Science Major at PUCIT;<br>🤝 Passionate about working with new technologies;<br>🌱 I’m currently learning Machine Learning and Deep Learning with Python;<br>👨🏻‍💻 You can see most of my work on GitHub;<br>💬 Enjoy indulging myself in tech related conversations;<br>📫 Feel free to ping me on LinkedIn<br>🔭 Painting and Sketching interest me aside from my work domain.
+📚 Computer Science Major at PUCIT;<br>🤝 Passionate about working with new technologies;<br>🌱 I’m currently learning Machine Learning and Deep Learning with Python;<br>👨🏻‍💻 You can see most of my work on GitHub;<br>💬 Enjoy indulging myself in tech related conversations;<br>📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/faroghzahra/)<br>🔭 Painting and Sketching interest me aside from my work domain.
 
 
 ## 🌐 Socials:
